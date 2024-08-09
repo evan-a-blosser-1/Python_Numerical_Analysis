@@ -1,15 +1,15 @@
 # Python_Numerical_Analysis
 
-## Statisitical Thermo
+## Statistical Thermo
 
 contains several scripts used for completing assignments in Statistical Physics & Thermodynamics. 
 
 ## Sin_Taylor_Approx.py
 
-Shows how computers mathmatically compute sine funcitons using a taylor series expansion. 
+Shows how computers mathematically compute sine functions using a Taylor series expansion. 
 
 
 
 ## Stats_Pack.py
 
-!!Work in progress, translating some of R studio pakage to use in python
+!!Work in progress, translating some of the R studio package to use in Python.
